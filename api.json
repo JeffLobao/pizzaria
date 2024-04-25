@@ -1,0 +1,39 @@
+{
+    "sabores":[
+        {
+            "id":"1",
+            "nome": "Pizza Peperoni",
+            "preco": 39.9,
+            "descricao": "Uma pizza muita boa",
+            "promocao": true
+        },
+        {
+            "id":"2",
+            "nome": "Pizza frango com cheddar",
+            "preco": 38.9,
+            "descricao": "Uma pizza muita boa",
+            "promocao": false
+        },
+        {
+            "id":"3",
+            "nome": "Pizza Calabresa",
+            "preco": 36.9,
+            "descricao": "Uma pizza muita boa",
+            "promocao": true
+        },
+        {
+            "id":"4",
+            "nome": "Pizza Quatro queijos",
+            "preco": 39.9,
+            "descricao": "Uma pizza muita boa",
+            "promocao": true
+        },
+        {
+            "id":"5",
+            "nome": "Pizza Portuguesa",
+            "preco": 35.9,
+            "descricao": "Uma pizza muita boa",
+            "promocao": false
+        }
+    ]
+}
